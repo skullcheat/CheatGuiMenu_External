@@ -1,7 +1,6 @@
 # ImGUI-Advanced-Cheat-Menu
 
 > An ImGui Menu preset that is somewhat useable.
-* SFML is used for backend.
 * This Menu does not modify ImGui. New elements are added in imgui_custom.hpp (Hotkey Button)
 
 ![menu](https://user-images.githubusercontent.com/59796488/178153554-7cf12656-7d93-4a7c-b505-10dac9b674fb.png)
