@@ -15,13 +15,6 @@
 * Font Loaded from Memory (Poppins and Fontawesome v.5 for Icons)
 * Overlay for Active Modules Loaded (very improvable) 
 
-## Features to add
-* Configs Loading and Saving
-* Search Feature
-* Title for Panels
-* Animations?
-* Custom Items
-
 ## Version 1.1
 * Made ModuleList (HUD) customizeable
 * ModuleList Sorting by ASC not working currently
