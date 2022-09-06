@@ -3,11 +3,7 @@
 > An ImGui Menu preset that is somewhat useable.
 * This Menu does not modify ImGui. New elements are added in imgui_custom.hpp (Hotkey Button)
 
-![menu](https://user-images.githubusercontent.com/59796488/178153554-7cf12656-7d93-4a7c-b505-10dac9b674fb.png)
-
-build release DEBUG X64
-
-* Build scripts are available for x64 DEBUG and RELEASE
+* build release DEBUG X64
 * Project will only compile for Windows without modifications
 
 ## Features
